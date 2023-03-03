@@ -7,10 +7,6 @@ import {
 
 import {Home} from "./src/view/Home";
 
-
-
-
-
 function App(): JSX.Element {
 
   return (
